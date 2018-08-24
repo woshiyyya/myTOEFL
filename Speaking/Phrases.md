@@ -20,9 +20,9 @@ another play on some other day 在其他日子有另一场戏
 business man 商人  
 the branch 分公司  
 loyal customers 忠实用户  
-
-
-
+a logical fallacy in Deductive Reasoning 推理中的逻辑错误  
+deliver my idea  传达我的想法  
+correct my mistakes that I am not aware of 改正我没有意识到的错误
 
 
 
