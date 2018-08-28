@@ -10,7 +10,15 @@ Furthermore, the Internet gives enerybody a chance of vocalize their oponinosn a
 
 However, I had to commit that many intricate problems have emerged during the years. False information with malicious intension cause economical and even physical loss to the public. Videos with sexual and violence contents are poisoning children's mind. Malicious internet attack and information fabrication strongly risk the safty of our country, resuting thousand millions dollars cost in keeping a clean Internet environment. There are still many problems we need to handle to make it a stable and reliable tool for human beings.
 
+## TPO11 Sample
+Internet must be one of the greatest inventions during the 20th century. It shortens the distance between people all over the world by providing various kinds and large amount of information. In my point of view, I agree that Internet can provide a lot of valuable information, which would benefit us without troubling at all.  
 
+By surfing through the Internet, we can get large quantities of useful skills, which can benefit ourselves, from the information that is available on the internet. Learning these skills can help us keep healthy, gain more money or even improve our living standard. In my country, there used to be some isolated villages, where books and knowledge are hard to spread. People living in these villages lack the basic skills to have a good harvest and they live in a very poor condition. Meanwhile, our government has helped them to have access to Internet recently and the villagers can get the information without any difficulties. By using this information, they improved their living conditions. Therefore, information getting from Internet can benefit our lives.  
 
+Another important aspect is the current affairs. Internet could offer us a lot of information about things happend all over the world without people traveling around the world. **From the new scientific discovery to the war in the Middle East, from the economic crisis happened in Europe to the World Cup held in Russia, things happend in every corner of the world can be known in less than a minute through the Internet. Under this circumstance, people can have their own oponions on these affairs, or they can give their hands to the ones who need help. Internet give everyone a chance to learn more about the whole world by providing us information.**
 
+**Admittedly, there is some unreal information on the Internet. On the contrary, I do not think it as a trouble at all. The existance of unreal information forces us to be critical thinking and have the ability to tell the truth. In addition, it is the person who fabricated the news rather than the Internet to be blamed.** 
 
+All in all, the Internet is a great tool to offer us tremendous amout of information. Surrounded by large amount of information can broad our sight and make us more intelligent rather than trap us into troubles.
+
+篇幅详略得当
