@@ -28,8 +28,12 @@
 |way of talking| 说话方式  
 |shared interests and hobbies|共同的兴趣爱好
 |one takes on the color of one’s company| 近朱者赤近墨者黑
-
-
+|ceremonial and political center of Chinese government| 文化和政治中心
+|historical relics/ antiques| 历史遗迹/古董
+|time and energy| 时间和精力
+|national condition|国情
+|narrow-minded|目光狭窄
+|go deep into|深入了解
 
 
 
