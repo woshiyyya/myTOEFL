@@ -27,6 +27,10 @@
 |correct my mistakes that I am not aware of |改正我没有意识到的错误
 |way of talking| 说话方式  
 |shared interests and hobbies|共同的兴趣爱好
+|one takes on the color of one’s company| 近朱者赤近墨者黑
+
+
+
 
 
 The student is asking for two changes to make XXX more convenient.  
