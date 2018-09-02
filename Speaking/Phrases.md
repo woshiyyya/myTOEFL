@@ -39,7 +39,10 @@
 |physical fitness| 身体素质
 |body coordination and balance ability |身体的协调与平衡能力
 |get through all the difficulties| 克服一切困难
-||
+|personal character and temperament| 性格与脾气
+|group activity| 团队活动
+|start to know each other| 了解对方
+
 
 
 The student is asking for two changes to make XXX more convenient.  
