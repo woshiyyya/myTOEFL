@@ -34,7 +34,12 @@
 |national condition|国情
 |narrow-minded|目光狭窄
 |go deep into|深入了解
-
+|develope artistic talent| 培养艺术才能
+|play a music| 弹一首曲子
+|physical fitness| 身体素质
+|body coordination and balance ability |身体的协调与平衡能力
+|get through all the difficulties| 克服一切困难
+||
 
 
 The student is asking for two changes to make XXX more convenient.  
