@@ -42,7 +42,8 @@
 |personal character and temperament| 性格与脾气
 |group activity| 团队活动
 |start to know each other| 了解对方
-
+|personal and professional qualities| 个人及职业素养
+|convey a sense of self-confidence and enthusiasm|传达出自信与热情
 
 
 The student is asking for two changes to make XXX more convenient.  
