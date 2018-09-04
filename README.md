@@ -3,6 +3,8 @@ Reocrd some resource and practice during my preparation.
 
 # 7-Golden E's
 - Economy
+  - money
+  - time
 - Environment and health
 - Efficiency and Effectiveness
 - Equality and Fairness
